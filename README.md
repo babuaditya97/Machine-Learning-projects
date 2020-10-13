@@ -1,2 +1,2 @@
 # Machine-Learning-projects
-few classic machine learing datasets solved
+few classic machine learning datasets solved
